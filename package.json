@@ -1,0 +1,21 @@
+{
+  "name": "greenwire",
+  "displayName": "greenwire",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "greenwire",
+        "uiTheme": "vs-dark",
+        "path": "./themes/greenwire-color-theme.json"
+      }
+    ]
+  }
+}
