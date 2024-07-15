@@ -1,8 +1,8 @@
 # greenwire - VSCode Theme
 
 ## About
-This theme is inspired by the colors from my personal portfolio website.
-Hope you like it.
+This theme is inspired by green accents from my personal portfolio website.
+Enjoy!
 
 ## Install your extension
 

@@ -28,7 +28,7 @@
 		"titleBar.activeBackground": "#1C453250",
 		"titleBar.border": "#9AE6B450",
 		"terminal.background": "#163728",
-		"statusBar.noFolderBackground":"#38A16960"
+		"statusBar.noFolderBackground":"#38A16960",
 	},
 	"tokenColors": [
 		{
